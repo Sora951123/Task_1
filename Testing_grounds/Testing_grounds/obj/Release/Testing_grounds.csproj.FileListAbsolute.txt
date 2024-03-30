@@ -1,0 +1,7 @@
+D:\VisualStudio\gen1\Testing_grounds\Testing_grounds\bin\Release\Testing_grounds.exe.config
+D:\VisualStudio\gen1\Testing_grounds\Testing_grounds\bin\Release\Testing_grounds.exe
+D:\VisualStudio\gen1\Testing_grounds\Testing_grounds\bin\Release\Testing_grounds.pdb
+D:\VisualStudio\gen1\Testing_grounds\Testing_grounds\obj\Release\Testing_grounds.csproj.AssemblyReference.cache
+D:\VisualStudio\gen1\Testing_grounds\Testing_grounds\obj\Release\Testing_grounds.csproj.CoreCompileInputs.cache
+D:\VisualStudio\gen1\Testing_grounds\Testing_grounds\obj\Release\Testing_grounds.exe
+D:\VisualStudio\gen1\Testing_grounds\Testing_grounds\obj\Release\Testing_grounds.pdb
